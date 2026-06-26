@@ -79,7 +79,7 @@
 
 ---
 
-## ▌INSTALLATION
+<!--## ▌INSTALLATION
 
 ### // PLUG IN VIA ZED EXTENSIONS
 
@@ -91,7 +91,7 @@ Then activate it:
 
 ```
 Ctrl+Shift+P  →  "theme selector: toggle"  →  Midnight Prism
-```
+```-->
 
 ### // MANUAL UPLINK
 
