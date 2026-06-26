@@ -321,11 +321,7 @@
             "font_style": null,
             "font_weight": null
           },
-          "punctuation.bracket.html": {
-            "color": "#ffffff",
-            "font_style": null,
-            "font_weight": null
-          },
+
           "punctuation.delimiter": {
             "color": "#8a8fa0",
             "font_style": null,
