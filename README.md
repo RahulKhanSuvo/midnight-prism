@@ -22,30 +22,30 @@
 
 ### UI Colors
 
-| Element | Color | Preview |
-|---|---|---|
-| Background | `#23262E` | ![](https://via.placeholder.com/14/23262E/23262E.png) |
-| Sidebar / Panel | `#1e2027` | ![](https://via.placeholder.com/14/1e2027/1e2027.png) |
-| Active Line | `#2a2d3a` | ![](https://via.placeholder.com/14/2a2d3a/2a2d3a.png) |
-| Foreground Text | `#D5CED9` | ![](https://via.placeholder.com/14/D5CED9/D5CED9.png) |
-| Focused Border | `#ff0090` | ![](https://via.placeholder.com/14/ff0090/ff0090.png) |
-| Selection | `#00ffff22` | ![](https://via.placeholder.com/14/00ffff/00ffff.png) |
+| Element | Color |
+|---|---|
+| Background | `#23262E` |
+| Sidebar / Panel | `#1e2027` |
+| Active Line | `#2a2d3a` |
+| Foreground Text | `#D5CED9` |
+| Focused Border | `#ff0090` |
+| Selection | `#00ffff22` |
 
 ### Syntax Colors
 
-| Scope | Color | Preview |
-|---|---|---|
-| Keywords | `#ff0090` Neon Pink | ![](https://via.placeholder.com/14/ff0090/ff0090.png) |
-| Functions / Properties | `#00ffff` Electric Cyan | ![](https://via.placeholder.com/14/00ffff/00ffff.png) |
-| Types / Constructors | `#bf00ff` Electric Purple | ![](https://via.placeholder.com/14/bf00ff/bf00ff.png) |
-| Strings | `#39ff14` Neon Green | ![](https://via.placeholder.com/14/39ff14/39ff14.png) |
-| Numbers / Labels | `#ffd700` Electric Gold | ![](https://via.placeholder.com/14/ffd700/ffd700.png) |
-| Constants / Attributes | `#ff6600` Neon Orange | ![](https://via.placeholder.com/14/ff6600/ff6600.png) |
-| Operators / Booleans | `#ff2d78` Hot Pink-Red | ![](https://via.placeholder.com/14/ff2d78/ff2d78.png) |
-| Tags (HTML) | `#ff2d78` Hot Pink-Red | ![](https://via.placeholder.com/14/ff2d78/ff2d78.png) |
-| React Components | `#bf00ff` Electric Purple | ![](https://via.placeholder.com/14/bf00ff/bf00ff.png) |
-| Links / Info | `#0080ff` Electric Blue | ![](https://via.placeholder.com/14/0080ff/0080ff.png) |
-| Comments | `#555a6d` Muted | ![](https://via.placeholder.com/14/555a6d/555a6d.png) |
+| Scope | Color |
+|---|---|
+| Keywords | `#ff0090` Neon Pink |
+| Functions / Properties | `#00ffff` Electric Cyan |
+| Types / Constructors | `#bf00ff` Electric Purple |
+| Strings | `#39ff14` Neon Green |
+| Numbers / Labels | `#ffd700` Electric Gold |
+| Constants / Attributes | `#ff6600` Neon Orange |
+| Operators / Booleans | `#ff2d78` Hot Pink-Red |
+| Tags (HTML) | `#ff2d78` Hot Pink-Red |
+| React Components | `#bf00ff` Electric Purple |
+| Links / Info | `#0080ff` Electric Blue |
+| Comments | `#555a6d` Muted |
 
 ### Status & Git Colors
 
