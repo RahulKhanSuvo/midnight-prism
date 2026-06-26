@@ -7,3 +7,4 @@ description = "A deep dark theme with rich, prismatic color accents — inspired
 authors = ["Rahul <rahul.khan.suvo@gmail.com>"]
 repository = "https://github.com/RahulKhanSuvo/midnight-prism"
 [themes]
+paths = ["themes/midnight-prism.json"]
