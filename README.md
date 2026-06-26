@@ -1,41 +1,105 @@
-# Midnight Prism
+```
+███╗   ███╗██╗██████╗ ███╗   ██╗██╗ ██████╗ ██╗  ██╗████████╗
+████╗ ████║██║██╔══██╗████╗  ██║██║██╔════╝ ██║  ██║╚══██╔══╝
+██╔████╔██║██║██║  ██║██╔██╗ ██║██║██║  ███╗███████║   ██║
+██║╚██╔╝██║██║██║  ██║██║╚██╗██║██║██║   ██║██╔══██║   ██║
+██║ ╚═╝ ██║██║██████╔╝██║ ╚████║██║╚██████╔╝██║  ██║   ██║
+╚═╝     ╚═╝╚═╝╚═════╝ ╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝
 
-> A deep dark cyberpunk theme for [Zed](https://zed.dev) — built for long coding sessions with neon-lit syntax, high contrast, and zero eye strain.
+██████╗ ██████╗ ██╗███████╗███╗   ███╗
+██╔══██╗██╔══██╗██║██╔════╝████╗ ████║
+██████╔╝██████╔╝██║███████╗██╔████╔██║
+██╔═══╝ ██╔══██╗██║╚════██║██║╚██╔╝██║
+██║     ██║  ██║██║███████║██║ ╚═╝ ██║
+╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝     ╚═╝
+```
+
+<div align="center">
+
+**⚡ A cyberpunk dark theme for [Zed Editor](https://zed.dev) ⚡**
+
+*Neon lights. Deep shadows. Zero compromise.*
+
+![Version](https://img.shields.io/badge/version-1.0.0-ff0090?style=for-the-badge&labelColor=0d0d1c)
+![Zed](https://img.shields.io/badge/Zed-Editor-00ffff?style=for-the-badge&labelColor=0d0d1c)
+![License](https://img.shields.io/badge/license-MIT-bf00ff?style=for-the-badge&labelColor=0d0d1c)
+
+</div>
 
 ---
 
-## Preview
+## ▌SYSTEM OVERVIEW
 
-```
- ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗
-██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██║   ██║████╗  ██║██║ ██╔╝
-██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║██╔██╗ ██║█████╔╝
-██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗
-╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ╚██████╔╝██║ ╚████║██║  ██╗
- ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝
-                          MIDNIGHT  PRISM
-```
+> Midnight Prism jacks your editor into the grid. Built for coders who live in the dark and think in neon — deep blacks, electric accents, and razor-sharp syntax that cuts through the noise.
 
 ---
 
-## Installation
+## ▌SIGNAL PALETTE
 
-### Via Zed Extension Store *(recommended)*
+### // INTERFACE
 
-1. Open Zed and press `Ctrl+Shift+X` to open Extensions
-2. Search for **Midnight Prism**
-3. Click **Install**
-4. Go to `Zed → Settings → Theme` and select **Midnight Prism**
+| ELEMENT | HEX |
+|---|---|
+| Background | `#23262E` |
+| Sidebar / Panel | `#1e2027` |
+| Active Line | `#2a2d3a` |
+| Foreground Text | `#D5CED9` |
+| Focused Border | `#ff0090` |
+| Selection | `#00ffff22` |
 
-### Manual Install
+### // SYNTAX
 
-1. Copy `themes/midnight-prism.json` to your Zed themes folder:
+| TOKEN | HEX | SIGNAL |
+|---|---|---|
+| Keywords | `#ff0090` | Neon Pink |
+| Functions / Properties | `#00ffff` | Electric Cyan |
+| Types / Constructors | `#bf00ff` | Electric Purple |
+| Strings | `#39ff14` | Neon Green |
+| Numbers / Labels | `#ffd700` | Electric Gold |
+| Constants / Attributes | `#ff6600` | Neon Orange |
+| Operators / Booleans | `#ff2d78` | Hot Pink-Red |
+| Tags (HTML) | `#ff2d78` | Hot Pink-Red |
+| React Components | `#bf00ff` | Electric Purple |
+| Links | `#0080ff` | Electric Blue |
+| Comments | `#555a6d` | Dead Channel |
+
+### // STATUS GRID
+
+| STATE | HEX | SIGNAL |
+|---|---|---|
+| Error | `#ff2d78` | Flatline |
+| Warning | `#ffd700` | Alert |
+| Success | `#39ff14` | Online |
+| Info | `#0080ff` | Uplink |
+| Modified | `#ffd700` | Delta |
+| Created | `#39ff14` | New Node |
+| Deleted | `#ff2d78` | Purged |
+| Conflict | `#ff6600` | Collision |
+| Renamed | `#bf00ff` | Rerouted |
+
+---
+
+## ▌INSTALLATION
+
+### // PLUG IN VIA ZED EXTENSIONS
+
+```
+Ctrl+Shift+X  →  Search "Midnight Prism"  →  Install
+```
+
+Then activate it:
+
+```
+Ctrl+Shift+P  →  "theme selector: toggle"  →  Midnight Prism
+```
+
+### // MANUAL UPLINK
 
 ```sh
 cp themes/midnight-prism.json ~/.config/zed/themes/
 ```
 
-2. Open `~/.config/zed/settings.json` and set:
+Add to `~/.config/zed/settings.json`:
 
 ```json
 {
@@ -48,23 +112,37 @@ cp themes/midnight-prism.json ~/.config/zed/themes/
 
 ---
 
-## Features
+## ▌CORE SPECS
 
-- **Cyberpunk-inspired neon palette** — vivid, saturated accent colors on a deep dark background
-- **Comfortable dark backgrounds** — easy on the eyes during long coding sessions
-- **Full semantic color coverage** — error, warning, success, git status, and conflict states all properly themed
-- **Neon-pink active line number** — instantly know which line your cursor is on
-- **Cyberpunk terminal colors** — matching neon ANSI palette for the integrated terminal
-- **8 player cursors** — distinct neon colors for collaborative editing
-
----
-
-## Contributing
-
-Found a bug or want to suggest an improvement? Open an issue or PR on [GitHub](https://github.com/RahulKhanSuvo/midnight-prism).
+```
+⚡ Cyberpunk neon syntax palette
+⚡ Deep dark backgrounds — no eye burn
+⚡ Neon-pink active line number
+⚡ Full git status color coverage
+⚡ Matching cyberpunk terminal (ANSI) colors
+⚡ 8 distinct neon player cursors for collab sessions
+⚡ All semantic states themed — error, warn, success, conflict
+```
 
 ---
 
-## License
+## ▌UPLINK / CONTRIBUTE
 
-MIT © [Rahul](https://github.com/RahulKhanSuvo)
+Glitches? Feature requests? Open an issue or PR on [GitHub](https://github.com/RahulKhanSuvo/midnight-prism).
+
+---
+
+## ▌LICENSE
+
+```
+MIT © Rahul Khan Suvo
+Free to use. Free to modify. Credit appreciated.
+```
+
+---
+
+<div align="center">
+
+*// END OF LINE //*
+
+</div>
