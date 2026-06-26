@@ -8,7 +8,7 @@
       "appearance": "dark",
       "style": {
         "background": "#23262E",
-        "foreground": "#D5CED9",
+        "foreground": "#ffffff",
 
         "border": "#35394a",
         "border.variant": "#2d3040",
@@ -67,7 +67,7 @@
         "scrollbar.track.background": "#00000000",
         "scrollbar.track.border": "#35394a",
 
-        "editor.foreground": "#D5CED9",
+        "editor.foreground": "#ffffff",
         "editor.background": "#23262E",
         "editor.gutter.background": "#23262E",
         "editor.subheader.background": "#2b2f3b",
