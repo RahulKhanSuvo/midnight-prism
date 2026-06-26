@@ -18,51 +18,6 @@
 
 ---
 
-## Color Palette
-
-### UI Colors
-
-| Element | Color |
-|---|---|
-| Background | `#23262E` |
-| Sidebar / Panel | `#1e2027` |
-| Active Line | `#2a2d3a` |
-| Foreground Text | `#D5CED9` |
-| Focused Border | `#ff0090` |
-| Selection | `#00ffff22` |
-
-### Syntax Colors
-
-| Scope | Color |
-|---|---|
-| Keywords | `#ff0090` Neon Pink |
-| Functions / Properties | `#00ffff` Electric Cyan |
-| Types / Constructors | `#bf00ff` Electric Purple |
-| Strings | `#39ff14` Neon Green |
-| Numbers / Labels | `#ffd700` Electric Gold |
-| Constants / Attributes | `#ff6600` Neon Orange |
-| Operators / Booleans | `#ff2d78` Hot Pink-Red |
-| Tags (HTML) | `#ff2d78` Hot Pink-Red |
-| React Components | `#bf00ff` Electric Purple |
-| Links / Info | `#0080ff` Electric Blue |
-| Comments | `#555a6d` Muted |
-
-### Status & Git Colors
-
-| State | Color |
-|---|---|
-| Error | `#ff2d78` Neon Pink-Red |
-| Warning | `#ffd700` Electric Gold |
-| Success | `#39ff14` Neon Green |
-| Info | `#0080ff` Electric Blue |
-| Modified | `#ffd700` Electric Gold |
-| Added / Created | `#39ff14` Neon Green |
-| Deleted | `#ff2d78` Neon Pink-Red |
-| Conflict | `#ff6600` Neon Orange |
-| Renamed | `#bf00ff` Electric Purple |
-
----
-
 ## Installation
 
 ### Via Zed Extension Store *(recommended)*
