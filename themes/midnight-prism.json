@@ -105,6 +105,58 @@
 
         "link_text.hover": "#00e8c6",
 
+        "error": "#ee5d43",
+        "error.background": "#ee5d4322",
+        "error.border": "#ee5d4366",
+
+        "warning": "#FFE66D",
+        "warning.background": "#FFE66D22",
+        "warning.border": "#FFE66D66",
+
+        "success": "#96E072",
+        "success.background": "#96E07222",
+        "success.border": "#96E07266",
+
+        "info": "#7cb7ff",
+        "info.background": "#7cb7ff22",
+        "info.border": "#7cb7ff66",
+
+        "modified": "#FFE66D",
+        "modified.background": "#FFE66D22",
+        "modified.border": "#FFE66D66",
+
+        "created": "#96E072",
+        "created.background": "#96E07222",
+        "created.border": "#96E07266",
+
+        "deleted": "#ee5d43",
+        "deleted.background": "#ee5d4322",
+        "deleted.border": "#ee5d4366",
+
+        "conflict": "#f39c12",
+        "conflict.background": "#f39c1222",
+        "conflict.border": "#f39c1266",
+
+        "hidden": "#555a6d",
+        "hidden.background": "#555a6d22",
+        "hidden.border": "#555a6d66",
+
+        "ignored": "#555a6d",
+        "ignored.background": "#555a6d22",
+        "ignored.border": "#555a6d66",
+
+        "predictive": "#8a8fa0",
+        "predictive.background": "#8a8fa022",
+        "predictive.border": "#8a8fa066",
+
+        "renamed": "#c74ded",
+        "renamed.background": "#c74ded22",
+        "renamed.border": "#c74ded66",
+
+        "unreachable": "#555a6d",
+        "unreachable.background": "#555a6d22",
+        "unreachable.border": "#555a6d66",
+
         "players": [
           {
             "cursor": "#00e8c6",
