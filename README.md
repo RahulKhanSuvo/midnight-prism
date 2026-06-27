@@ -26,6 +26,10 @@
 
 </div>
 
+<p align="center"> <img src="./screenshot/Screenshot%20from%202026-06-27%2007-38-18.png" width="100%" alt="Midnight Prism - View 1"> </p>
+<p align="center"> <img src="./screenshot/Screenshot%20from%202026-06-27%2007-40-30.png" width="100%" alt="Midnight Prism - View 2"> </p>
+<p align="center"> <img src="./screenshot/Screenshot%20from%202026-06-27%2007-41-21.png" width="100%" alt="Midnight Prism - View 3"> </p>
+
 ---
 
 ## ▌SYSTEM OVERVIEW
