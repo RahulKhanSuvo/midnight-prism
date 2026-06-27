@@ -1,7 +1,7 @@
 [extension]
 id = "midnight-prism"
 name = "Midnight Prism"
-version = "1.0.0"
+version = "0.1.0"
 schema_version = 1
 description = "A deep dark theme with rich, prismatic color accents — inspired by midnight skies refracted through crystal. Designed for long coding sessions with high contrast syntax highlighting and vibrant hues across the full spectrum."
 authors = ["Rahul <rahul.khan.suvo@gmail.com>"]
