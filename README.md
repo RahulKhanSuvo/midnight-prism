@@ -38,51 +38,6 @@
 
 ---
 
-## ▌SIGNAL PALETTE
-
-### // INTERFACE
-
-| ELEMENT | HEX |
-|---|---|
-| Background | `#23262E` |
-| Sidebar / Panel | `#1e2027` |
-| Active Line | `#2a2d3a` |
-| Foreground Text | `#D5CED9` |
-| Focused Border | `#ff0090` |
-| Selection | `#00ffff22` |
-
-### // SYNTAX
-
-| TOKEN | HEX | SIGNAL |
-|---|---|---|
-| Keywords | `#ff0090` | Neon Pink |
-| Functions / Properties | `#00ffff` | Electric Cyan |
-| Types / Constructors | `#bf00ff` | Electric Purple |
-| Strings | `#39ff14` | Neon Green |
-| Numbers / Labels | `#ffd700` | Electric Gold |
-| Constants / Attributes | `#ff6600` | Neon Orange |
-| Operators / Booleans | `#ff2d78` | Hot Pink-Red |
-| Tags (HTML) | `#ff2d78` | Hot Pink-Red |
-| React Components | `#bf00ff` | Electric Purple |
-| Links | `#0080ff` | Electric Blue |
-| Comments | `#555a6d` | Dead Channel |
-
-### // STATUS GRID
-
-| STATE | HEX | SIGNAL |
-|---|---|---|
-| Error | `#ff2d78` | Flatline |
-| Warning | `#ffd700` | Alert |
-| Success | `#39ff14` | Online |
-| Info | `#0080ff` | Uplink |
-| Modified | `#ffd700` | Delta |
-| Created | `#39ff14` | New Node |
-| Deleted | `#ff2d78` | Purged |
-| Conflict | `#ff6600` | Collision |
-| Renamed | `#bf00ff` | Rerouted |
-
----
-
 <!--## ▌INSTALLATION
 
 ### // PLUG IN VIA ZED EXTENSIONS
