@@ -20,7 +20,7 @@
 
 *Neon lights. Deep shadows. Zero compromise.*
 
-![Version](https://img.shields.io/badge/version-1.0.0-ff0090?style=for-the-badge&labelColor=0d0d1c)
+![Version](https://img.shields.io/badge/version-0.1.0-ff0090?style=for-the-badge&labelColor=0d0d1c)
 ![Zed](https://img.shields.io/badge/Zed-Editor-00ffff?style=for-the-badge&labelColor=0d0d1c)
 ![License](https://img.shields.io/badge/license-MIT-bf00ff?style=for-the-badge&labelColor=0d0d1c)
 
